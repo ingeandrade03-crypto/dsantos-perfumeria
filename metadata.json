@@ -1,0 +1,8 @@
+{
+  "name": "D'Santos Perfumeria",
+  "description": "Boutique de belleza, perfumería Fraiche, perfumes originales, cosméticos y cuidado personal con catálogo interactivo, pedidos por WhatsApp y gestión de inventario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
